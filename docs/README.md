@@ -120,5 +120,5 @@ Found a gap, want to clarify a process, or propose an improvement? Open an issue
 
 ---
 
-**Last Updated**: June 2026  
+**Last Updated**: June 2026
 **Maintained by**: OctoAcme Project Management Community
